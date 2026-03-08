@@ -212,18 +212,18 @@ $lvl3: if($isDark, $base, $crust);
   --color-diff-inactive: #{$overlay2};
 
   --color-error-border: $red;
-  --color-error-bg: color.change($red, $alpha: 30%);
-  --color-error-bg-active: color.change($red, $alpha: 60%);
-  --color-error-bg-hover: color.change($red, $alpha: 45%);
+  --color-error-bg: color.change($red, $alpha: 15%);
+  --color-error-bg-active: color.change($red, $alpha: 45%);
+  --color-error-bg-hover: color.change($red, $alpha: 30%);
   --color-error-text: $red;
   --color-success-border: $green;
   --color-success-bg: color.change($green, $alpha: 30%);
   --color-success-text: $green;
   --color-warning-border: $peach;
-  --color-warning-bg: color.change($peach, $alpha: 30%);
+  --color-warning-bg: color.change($peach, $alpha: 15%);
   --color-warning-text: $peach;
   --color-info-border: $teal;
-  --color-info-bg: color.change($teal, $alpha: 30%);
+  --color-info-bg: color.change($teal, $alpha: 15%);
   --color-info-text: $teal;
   --color-red-badge: $red;
   --color-red-badge-bg: color.change($red, $alpha: 20%);
@@ -239,7 +239,7 @@ $lvl3: if($isDark, $base, $crust);
   --color-orange-badge-hover-bg: color.change($peach, $alpha: 40%);
   --color-git: #{$peach};
   --color-highlight-fg: #{$peach};
-  --color-highlight-bg: #{color.change($peach, $alpha: 30%)};
+  --color-highlight-bg: #{color.change($peach, $alpha: 15%)};
 
   /* target-based colors */
   --color-body: #{$lvl1};
