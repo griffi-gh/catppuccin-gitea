@@ -215,7 +215,7 @@ $lvl3: if($isDark, $base, $crust);
   --color-error-bg: color.change($red, $alpha: 15%);
   --color-error-bg-active: color.change($red, $alpha: 45%);
   --color-error-bg-hover: color.change($red, $alpha: 30%);
-  --color-error-text: $red;
+  --color-error-text: #{$text};
   --color-success-border: $green;
   --color-success-bg: color.change($green, $alpha: 30%);
   --color-success-text: $green;
