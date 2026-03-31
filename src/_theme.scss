@@ -140,7 +140,7 @@ $lvl3: if($isDark, $base, $crust);
   --color-ansi-bright-blue: ansibright($blue);
   --color-ansi-bright-magenta: ansibright($pink);
   --color-ansi-bright-cyan: ansibright($teal);
-  --color-ansi-bright-white: #{if(isDark), $subtext1, $surface1};
+  --color-ansi-bright-white: #{if(isDark, $subtext1, $surface1)};
 
   /* console colors */
   --color-console-fg: $text;
