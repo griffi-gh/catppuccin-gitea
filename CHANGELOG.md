@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/griffi-gh/catppuccin-gitea/compare/v1.0.0...v1.0.1) (2026-03-31)
+
+
+### Bug Fixes
+
+* red-on-red buttons ([3835fbd](https://github.com/griffi-gh/catppuccin-gitea/commit/3835fbd66806ced6eb3a42d3a252597ced46713c))
+
 ## [1.0.0](https://github.com/griffi-gh/catppuccin-gitea/compare/v1.0.2...v1.0.0) (2026-03-31)
 
 
