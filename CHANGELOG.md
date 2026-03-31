@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/griffi-gh/catppuccin-gitea/compare/v1.0.1...v1.0.2) (2026-03-31)
+
+
+### Bug Fixes
+
+* revert .button.danger to --color-error-text ([1d45315](https://github.com/griffi-gh/catppuccin-gitea/commit/1d4531521d5e0eda51191ec51c087bce63ed15ff))
+
 ## [1.0.1](https://github.com/griffi-gh/catppuccin-gitea/compare/v1.0.0...v1.0.1) (2026-03-31)
 
 
